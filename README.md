@@ -33,5 +33,11 @@ This table tells about countries which are good to visit in vacations with your 
 
 ---
 
+## Quotes
+
+>   I think that God, in creating man, somewhat overstimated his ability  -  *Oscar Wilde* 
+
+>   The difference between stupidity and genius is that genius has its limits   -  *Aristotle*
+
 
 
