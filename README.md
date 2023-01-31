@@ -12,5 +12,9 @@ Royal challengers Bangalore(RCB)
 2. Faf du Plessis
 3. Dinesh Karthik
 
+* Sunrises Hyderabad
+* Chennai super kings
+* Mumbai Indians
+
 
 
