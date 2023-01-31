@@ -1,5 +1,16 @@
 # -assignment2-mudupu
 # Poojitha_Mudupu
-######  Indian cricket Team
+######  Cricket
 I love Indian cricket team.They plays very nice with appropriate **batting and bowling techniques** <br>
 Especially I was mesmerized with **Viratkohli** game in every matches.
+
+---
+
+# Ordered and UnOdered list 
+Royal challengers Bangalore(RCB)
+1. Virat Kohli
+2. Faf du Plessis
+3. Dinesh Karthik
+
+
+
