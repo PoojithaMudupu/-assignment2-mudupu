@@ -18,3 +18,20 @@ Royal challengers Bangalore(RCB)
 
 ![About Poojitha_Mudupu](AboutMe.md)
 
+---
+
+# Explore the Countries
+
+This table tells about countries which are good to visit in vacations with your families and friends.<br>
+
+| **Country_Name** | **Reason**  | **Days to spend**|
+|     :---:        |    :---:    |    :---:         |
+|  India           |  India is a cultured country with unity in diversity. |100 days |
+|  Germany         |  Germany is a Europe country,where we have places to visit like Hamburg,Frankfurt.|  6 days |
+|  Norway          |  Norway is incredible country and outstanding heritage with safety.| 365 days |
+|  Pakistan        |  The historical Hinglaj temple needs to visit in pakistan and explore the people in country.  | 10 days|
+
+---
+
+
+
